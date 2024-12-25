@@ -9,7 +9,7 @@ Welcome to rewards Android App! This app utilizes Retrofit, MVVM architecture to
 
 ## Screenshots
 
-<img src="images/list.png" alt="Screenshot 1" width="250"/> 
+<img src="images/listOfItems.png" alt="Screenshot 1" width="250"/> 
 
 ## Installation
 To install fetchrewards Android App on your device, follow these steps:
