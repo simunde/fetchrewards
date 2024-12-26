@@ -62,9 +62,6 @@ dependencies {
     implementation ("androidx.lifecycle:lifecycle-livedata-ktx:2.7.0")
 
 
-//Glide
-    implementation ("com.github.bumptech.glide:glide:4.16.0")
-
     testImplementation(libs.junit)
     androidTestImplementation(libs.androidx.junit)
     androidTestImplementation(libs.androidx.espresso.core)
