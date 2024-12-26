@@ -1,6 +1,6 @@
 # FetchRewards
 ## Overview
-Welcome to rewards Android App! This app utilizes Retrofit, MVVM architecture to fetch data from an API and display a list of elements. It's designed to provide a seamless user experience while showcasing the power of these technologies.
+Welcome to Fetch Rewards Android App! This app utilizes Retrofit, MVVM architecture to fetch data from an API and display a list of items.
 
 ## Features
 - Fetches data from a remote API using Retrofit.
@@ -12,7 +12,7 @@ Welcome to rewards Android App! This app utilizes Retrofit, MVVM architecture to
 <img src="images/listOfItems.png" alt="Screenshot 1" width="250"/> 
 
 ## Installation
-To install fetchrewards Android App on your device, follow these steps:
+To install Fetch Rewards Android App on your device, follow these steps:
 
  **1. Clone the repository to your local machine.**
  
