@@ -1,4 +1,4 @@
-# PhotosTypicode
+# FetchRewards
 ## Overview
 Welcome to rewards Android App! This app utilizes Retrofit, MVVM architecture to fetch data from an API and display a list of elements. It's designed to provide a seamless user experience while showcasing the power of these technologies.
 
