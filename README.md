@@ -26,8 +26,8 @@ Once the app is installed on your device, follow these steps to use it:
 - Open the app from your device's home screen.
 - The app will fetch data from the API and display a list of elements.
 - Scroll through the list to view all the elements.
-- 
-Dependencies
+
+### Dependencies
 
 **Retrofit**
 
